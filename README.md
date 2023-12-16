@@ -9,7 +9,7 @@ I'm a passionate Junior Developer with expertise in Python and Javascript. My pr
 - **Additional Skills:** Team Leadership, Effective Communication, Fast Learner
 
 ## 🌱 Learning
-I'm always eager to learn and explore new technologies. Currently, I'm diving deeper into [mention any specific technologies or frameworks you're learning].
+I'm always eager to learn and explore new technologies. Currently, I'm diving deeper into video and image data enhancement through upscaling, interpolation, depth map generation and many more.
 
 ## 📫 Connect with Me
 Feel free to reach out! Let's connect and collaborate on interesting projects.
