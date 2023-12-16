@@ -16,3 +16,5 @@ Feel free to reach out! Let's connect and collaborate on interesting projects.
 
 📧 Email: [nilascontact@gmail.com](mailto:nilascontact@gmail.com)
 
+![NevermindNilas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nevermindnilas&show_icons=true&theme=transparent)
+
