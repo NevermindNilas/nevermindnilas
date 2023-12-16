@@ -1,7 +1,5 @@
 ![Header](github-header-image.png)
 
-# Hi there, I'm Nilas! 👋
-
 ## 👨‍💻 About Me
 I'm a passionate Junior Developer with expertise in Python and Javascript. My primary focus lies in the exciting realms of Machine Learning and Data Science.
 
