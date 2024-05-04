@@ -16,9 +16,5 @@ Feel free to reach out! Let's connect and collaborate on interesting projects.
 
 📧 Email: [nilascontact@gmail.com](mailto:nilascontact@gmail.com)
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<NevermindNilas>&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?NevermindNilas=<NevermindNilas>&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<NevermindNilas>&theme=summer">
-</picture>
-
+## 📊 Stats
+![Nilas](https://pixel-profile-ui.vercel.app/api/github-stats?username=NevermindNilas&screen_effect=true&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%280deg%2C+%23165a4cFF+0%25%2C+%2391db69FF+100%25%29+&color=%23ffffffFF)
