@@ -5,7 +5,7 @@
 I'm a passionate Junior Developer with expertise in Python and Javascript. My primary focus lies in the exciting realms of Machine Learning and Data Science.
 
 ## 🚀 Skills
-- **Languages:** Python, JavaScriptm, Typescript
+- **Languages:** Python, JavaScript, Typescript
 - **Frameworks:** React
 - **Specialization:** Machine Learning, Data Science
 - **Additional Skills:** Team Leadership, Effective Communication, Fast Learner
