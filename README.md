@@ -18,4 +18,7 @@ Feel free to reach out! Let's connect and collaborate on interesting projects.
 
 📧 Email: [nilascontact@gmail.com](mailto:nilascontact@gmail.com)
 
-
+<div align="center">
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NevermindNilas}/count.svg" /></p> 
+</div>
